@@ -1,4 +1,12 @@
-li{
-    margin: auto 10px;
+nav, .brand-logo{
+    background-color: gray;
+    color: yellow;
 }
+
+li{
+    font-size: 20px;
+    margin: auto 40px;
+}
+
+
 

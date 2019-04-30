@@ -1,9 +1,33 @@
+body{
+    background-color: black;
+    font-family: "Righteous"
+}
+
 .container{
     margin-top: 20px;
+    
 }
 
 .jumbotron{
-    background-color: lightgray;
-    height: 300px;
-    margin-bottom: 20px
+    color: white;
+    border: 2px white solid;
+    border-radius: 10px;
+    height: 350px;
+    margin-bottom: 20px;
+    background-image: url("https://static.gamespot.com/uploads/scale_super/1578/15789737/3515432-endgamedek.jpg");
+    background: cover;
+    position: relative;
+
+}
+
+.jumbotron h5 {
+
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    text-shadow: 5px 5px black
+}
+
+.card-holder{
+    margin: auto;
 }

@@ -12,25 +12,36 @@
     {
         "id": 3,
         "name": "Thanos",
-
         "img_src": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Empire_March_Cover_IW_6_Textless.png/revision/latest?cb=20180325144529"
     },
     {
         "id": 4,
         "name": "Thor",
-
         "img_src": "https://vignette.wikia.nocookie.net/thor/images/3/3f/Thor-poster.jpg/revision/latest?cb=20120516065855"
     },
     {
         "id": 5,
         "name": "Hawk Eye",
-
         "img_src": "https://vignette.wikia.nocookie.net/theavengersmovie/images/c/c7/Clint_b.png/revision/latest?cb=20130507081403"
     },
     {
         "id": 6,
         "name": "Hulk",
-
         "img_src": "https://vignette.wikia.nocookie.net/marvelmovies/images/2/2c/Avengers_Infinity_War_Hulk_poster.jpg/revision/latest?cb=20180404210540"
+    },
+    {
+        "id": 7,
+        "name": "Star Lord",
+        "img_src": "https://fsmedia.imgix.net/d9/05/11/4a/f177/4b86/a842/278fec24b995/guardians-of-the-galaxy-vol-2.jpeg?rect=0%2C0%2C2000%2C1000&auto=format%2Ccompress&dpr=2&w=650"
+    },
+    {
+        "id": 8,
+        "name": "Captain Marvel",
+        "img_src": "https://media.wired.com/photos/5c0581f95bb9802d7e31702d/master/pass/Captain-Marvel-001.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Black Widow",
+        "img_src": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2018/02/Black-Widow-Avengers-920x584.jpg"
     }
 ]
