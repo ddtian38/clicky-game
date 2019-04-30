@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Captain America",
+        "img_src": "http://cdn.collider.com/wp-content/uploads/captain-america-first-avenger-poster-chris-evans-01.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Iron Man",
+        "img_src": "https://i.pinimg.com/originals/56/ca/66/56ca665101a3d6cb06c4d6f2ef5c461b.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Thanos",
+
+        "img_src": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Empire_March_Cover_IW_6_Textless.png/revision/latest?cb=20180325144529"
+    },
+    {
+        "id": 4,
+        "name": "Thor",
+
+        "img_src": "https://vignette.wikia.nocookie.net/thor/images/3/3f/Thor-poster.jpg/revision/latest?cb=20120516065855"
+    },
+    {
+        "id": 5,
+        "name": "Hawk Eye",
+
+        "img_src": "https://vignette.wikia.nocookie.net/theavengersmovie/images/c/c7/Clint_b.png/revision/latest?cb=20130507081403"
+    },
+    {
+        "id": 6,
+        "name": "Hulk",
+
+        "img_src": "https://vignette.wikia.nocookie.net/marvelmovies/images/2/2c/Avengers_Infinity_War_Hulk_poster.jpg/revision/latest?cb=20180404210540"
+    }
+]

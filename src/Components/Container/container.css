@@ -1,0 +1,9 @@
+.container{
+    margin-top: 20px;
+}
+
+.jumbotron{
+    background-color: lightgray;
+    height: 300px;
+    margin-bottom: 20px
+}
